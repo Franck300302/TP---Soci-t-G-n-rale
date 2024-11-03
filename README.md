@@ -1,1 +1,1 @@
-# TP---Soci-t-G-n-rale
+# TP---Société Générale
