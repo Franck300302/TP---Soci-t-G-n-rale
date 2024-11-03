@@ -1,0 +1,57 @@
+@font-face {
+    font-family:InterTight-Regular;
+    src: url(fonts/InterTight-Regular.ttf);
+}
+body{
+    font-family: Arial;
+    background-image:url('img/equipe.jpg') ;
+}
+main{
+    margin:50px auto;
+    padding: 50px;
+    background-color: rgb(255, 255, 255, 0.65);
+    width: 75%; 
+}
+h1{
+    font-family: InterTight-Regular;
+    color:#990000;
+    text-align:center;
+    font-size: 4em;
+}
+h2{
+    color:#9c7c38;
+    text-align:center;
+    font-size: 2em;
+    font-weight:normal;
+}
+p{
+    color: #000;
+    text-align: center;
+    font-weight:bold;
+
+}
+p#note{
+    text-align: left;
+    font-size: 0.7em;
+}
+a{
+    color: #fff;
+    background-color: #e60028;
+    font-size:2em;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+    display:block;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+img{ 
+    display: block;
+    margin: 0 auto;
+}
